@@ -1,1 +1,4 @@
-# Collection of dotfiles (subject to change)
+# Dotfiles
+## Vim
+
+.vimrc
