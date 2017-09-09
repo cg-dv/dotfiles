@@ -70,7 +70,7 @@ let g:airline_symbols.paste = '∥'
 let g:airline_symbols.whitespace = 'Ξ'
 
 
-"airline symbols
+" airline symbols
 
 let g:airline_left_sep = ''
 let g:airline_left_alt_sep = ''
@@ -92,4 +92,6 @@ set laststatus=2
 set tabstop=4
 set shiftwidth=4 expandtab
 set colorcolumn=80
+"set colorcolumn=70
+highlight ColorColumn ctermbg=7
 set number 
